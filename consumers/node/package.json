@@ -1,0 +1,12 @@
+{
+  "name": "lendit-pricing-consumer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ceciliagalvaoo/lendit-pricing": "^1.0.0-dev.1"
+  }
+}
