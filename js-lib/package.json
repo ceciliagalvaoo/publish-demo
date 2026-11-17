@@ -1,0 +1,14 @@
+{
+  "name": "@ceciliagalvaoo/lendit-pricing",
+  "version": "1.0.0",
+  "description": "Late fee calculation for LendIt.",
+  "main": "index.js",
+  "files": ["index.js", "README.md"],
+  "scripts": { "test": "node --test" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceciliagalvaoo/publish-demo.git",
+    "directory": "js-lib"
+  },
+  "license": "MIT"
+}
