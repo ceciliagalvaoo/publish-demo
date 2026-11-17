@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+out/
+TestResults/
+
+# Java
+target/
+
+# Node
+node_modules/
+*.tgz
+
+# local-only registry configs (Task 4) – never commit
+.npmrc.verdaccio
+
+# local tooling
+.claude/settings.local.json
